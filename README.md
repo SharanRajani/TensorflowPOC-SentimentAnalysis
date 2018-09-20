@@ -11,5 +11,5 @@ Explanation:
 
 Files:
 
-1. Estimator.ipynb is the file where we train the model test it against the training data.
+1. SentimentEstimator.ipynb is the file where we train the model test it against the training data.
 2. Test.ipynb is the files where the user can enter any text and the model predicts the sentiment behind it.
